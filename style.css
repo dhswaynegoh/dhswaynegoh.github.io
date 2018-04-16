@@ -1,0 +1,22 @@
+<head>
+  <link rel="stylesheet" href="styles.css">
+</head>
+h1{
+  font-family: Lucida Console;
+  color:indigo;
+}
+
+title{
+  font-family: Courier New;
+  color:indigo;
+}
+
+
+p{
+ font-family:  Lucida Console;
+ color: blue;
+}
+
+body {
+    background-color: #33ccff;
+}
